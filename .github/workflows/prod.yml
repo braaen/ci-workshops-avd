@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 15
     runs-on: ubuntu-latest
     steps:
-      - name: Hi
+       - name: Hi
         run: echo "Hello World!"
 
        - name: Checkout
